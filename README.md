@@ -24,6 +24,9 @@
 
 ![Screenshot 2025-04-20 032156](https://github.com/user-attachments/assets/65d31c06-552b-42ae-aca7-62cd6dac9486)
 
+
+教師が「新規追加」ボタンをクリックすると、新しい教材と教師名を入力できるページが開きます。
+
 ![Screenshot 2025-04-11 172627](https://github.com/user-attachments/assets/87467bc8-f9e5-40c3-aef4-3ed6b989f3b4)
 
 
